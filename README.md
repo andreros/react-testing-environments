@@ -20,15 +20,22 @@ The React Testing Environments application bundle purpose is to gather several p
 
 ## Testing environments
 
-| Application            | React | Testing Environment |
-| ---------------------- | ----- | ------------------- |
-| `react-16-jest-enzyme` | 16    | Jest + Enzyme       |
+| Application            | React | Testing Environment          |
+| ---------------------- | ----- | ---------------------------- |
+| `react-16-jest-enzyme` | 16    | Jest + Enzyme                |
+| `react-18-jest-rtl`    | 18    | Jest + React Testing Library |
 
 ## Single application installation and bootstrap
 
-From the project root folder, please execute the following commands in a terminal window:
+From the project root folder, please chose one application from the table above. Go to the application folder and execute the following commands in a terminal window:
 
 ```bash
+# example for the `react-16-jest-enzyme`
+cd react-16-jest-enzyme
+
+# install the application
 npm i
-npm start
+
+# run the example test suite
+npm run test
 ```
