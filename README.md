@@ -1,8 +1,10 @@
-# React Testing Environments
+# Unit Testing in React
+
+Unit testing in React can be made through the help of different tools. In order to use any of those tools, the application testing environment must be set up. Setting up the testing environment is not always a straight forward task and can be very time consuming.
 
 The React Testing Environments application bundle purpose is to gather several pre-configured, ready to use sample applications, each one with a clean working test environment with the various technologies available.
 
-## Applications Base Tech Stack
+## Applications base tech stack
 
 - `React` framework (with Typescript) for the overall application development;
 - `Typescript` coding language;
@@ -11,12 +13,12 @@ The React Testing Environments application bundle purpose is to gather several p
 - `DotEnv` to load project environment variables;
 - `PicniCSS` lightweight CSS framework for UI styling;
 
-## Applications Support tools
+## Applications support tools
 
 - `Prettier` for code formatting;
 - `Webpack` to bundle the application and serve it in development mode;
 
-## Testing Environments
+## Testing environments
 
 | Application            | React | Testing Environment |
 | ---------------------- | ----- | ------------------- |
