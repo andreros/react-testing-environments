@@ -2,7 +2,7 @@
 
 The React Testing Environments application bundle purpose is to gather several pre-configured, ready to use sample applications, each one with a clean working test environment with the various technologies available.
 
-## Common Application Tech Stack
+## Applications Base Tech Stack
 
 - `React` framework (with Typescript) for the overall application development;
 - `Typescript` coding language;
@@ -11,16 +11,16 @@ The React Testing Environments application bundle purpose is to gather several p
 - `DotEnv` to load project environment variables;
 - `PicniCSS` lightweight CSS framework for UI styling;
 
-## Application Support tools
+## Applications Support tools
 
 - `Prettier` for code formatting;
 - `Webpack` to bundle the application and serve it in development mode;
 
 ## Testing Environments
 
-| Application            | React | Testing Tools |
-| ---------------------- | ----- | ------------- |
-| `react-16-jest-enzyme` | 16    | Jest + Enzyme |
+| Application            | React | Testing Environment |
+| ---------------------- | ----- | ------------------- |
+| `react-16-jest-enzyme` | 16    | Jest + Enzyme       |
 
 ## Single application installation and bootstrap
 
