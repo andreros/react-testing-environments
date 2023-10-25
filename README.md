@@ -23,6 +23,7 @@ The React Testing Environments application bundle purpose is to gather several p
 | Application            | React | Testing Environment          |
 | ---------------------- | ----- | ---------------------------- |
 | `react-16-jest-enzyme` | 16    | Jest + Enzyme                |
+| `react-17-jest-enzyme` | 17    | Jest + Enzyme                |
 | `react-18-jest-rtl`    | 18    | Jest + React Testing Library |
 
 ## Single application installation and bootstrap
