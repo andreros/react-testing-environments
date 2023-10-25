@@ -4,6 +4,8 @@ Unit testing in React can be made through the help of different tools. In order 
 
 The React Testing Environments application bundle purpose is to gather several pre-configured, ready to use sample applications, each one with a clean working test environment with the various technologies available.
 
+At the time of writing all applications and test environments configured work. Feel free to reach out if you find any bug.
+
 ## Applications base tech stack
 
 - `React` framework (with Typescript) for the overall application development;
@@ -24,6 +26,7 @@ The React Testing Environments application bundle purpose is to gather several p
 | ---------------------- | ----- | ---------------------------- |
 | `react-16-jest-enzyme` | 16    | Jest + Enzyme                |
 | `react-17-jest-enzyme` | 17    | Jest + Enzyme                |
+| `react-18-jest-enzyme` | 18    | Jest + Enzyme                |
 | `react-18-jest-rtl`    | 18    | Jest + React Testing Library |
 
 ## Single application installation and bootstrap

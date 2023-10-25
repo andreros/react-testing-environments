@@ -1,4 +1,4 @@
-/* React 16 application rendering code */
+/* React 17 application rendering code */
 import * as React from 'react';
 import { render } from 'react-dom';
 

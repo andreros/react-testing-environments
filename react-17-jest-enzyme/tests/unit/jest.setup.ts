@@ -4,7 +4,7 @@
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
 
-// enzyme setup for a react 16 project
+// enzyme setup for a react 17 project
 const Enzyme = require('enzyme');
 // instead of a hypothetical `enzyme-adapter-react-17`, we need to use the unofficial adapter
 // https://www.npmjs.com/package/@wojtekmaj/enzyme-adapter-react-17
