@@ -36,6 +36,15 @@ cd react-16-jest-enzyme
 # install the application
 npm i
 
-# run the example test suite
+# run the application in development mode
+npm start
+
+# or
+npm run dev
+
+# run the unit tests suite
 npm run test
+
+# run the unit tests suite with coverage report generation
+npm run test:coverage
 ```
