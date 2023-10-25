@@ -27,7 +27,7 @@ The React Testing Environments application bundle purpose is to gather several p
 
 ## Single application installation and bootstrap
 
-From the project root folder, please chose one application from the table above. Go to the application folder and execute the following commands in a terminal window:
+From the project root folder, please choose one application from the table above. Go to the application folder and execute the following commands in a terminal window:
 
 ```bash
 # example for the `react-16-jest-enzyme`
