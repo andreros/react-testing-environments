@@ -28,6 +28,7 @@ At the time of writing all applications and test environments configured work. F
 | `react-17-jest-enzyme` | 17    | Jest + Enzyme                |
 | `react-18-jest-enzyme` | 18    | Jest + Enzyme                |
 | `react-18-jest-rtl`    | 18    | Jest + React Testing Library |
+| `react-18-cypress`     | 18    | Cypress                      |
 
 ## Single application installation and bootstrap
 
